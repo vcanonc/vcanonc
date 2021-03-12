@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vcanonc
 - 👀 I’m interested in Computer Science.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on artificial intelillence projects.
 
 <!---
