@@ -7,7 +7,11 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://imgflip.com/gif/9lhm3t"  />
+  <div style="width:260px;max-width:100%;">
+    <div style="height:0;padding-bottom:100%;position:relative;">
+      <iframe width="260" height="260" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/9lhm3t"></iframe>
+    </div>
+  </div>
 </div>
 
 ###
@@ -77,8 +81,9 @@
 <p align="left">- [📌 FoolThief](https://github.com/mbarrerag/FoolThief-2.0) - The Theft Incident Management System is an application for reporting and analyzing theft incidents, utilizing optimized data structures like AVL trees, binary trees, and dynamic arrays to improve efficiency and report generation.  <br>  <br>- [📌 My Resume Website](https://github.com/vcanonc/my-resume-app) - The Personal Portfolio Management System is a Django-based application for showcasing projects and professional information. It features a custom front-end template by [James Granger Design](https://www.jamesgrangerdesign.co.uk/) for a polished and responsive user experience.</p>
 
 ###
-
-<img src="https://raw.githubusercontent.com/vcanonc/vcanonc/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vcanonc/vcanonc/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
