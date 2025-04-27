@@ -12,12 +12,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=vcanonc.vcanonc&left_color=grey&right_color=darkmagenta"  />
-</div>
-
-###
-
 <h2 align="left">🏆 About Me</h2>
 
 ###
